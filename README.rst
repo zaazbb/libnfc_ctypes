@@ -14,7 +14,7 @@ Usage
 -----
 
 - Install (on raspberry pi)  
-    - install libnfc::
+    - install libnfc:
     
         see https://github.com/nfc-tools/libnfc  
     
